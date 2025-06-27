@@ -1,0 +1,21 @@
+{
+  "name": "node-todo-app",
+  "version": "1.0.0",
+  "description": "A simple Todo API with Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "todo",
+    "node",
+    "express",
+    "api"
+  ],
+  "author": "Malatesh Patil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
